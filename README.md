@@ -27,13 +27,19 @@ Here are some ideas to get you started:
 ## 📂 Projects
 ### [CAVISE](https://github.com/CAVISE)
 CAVISE aims to enhance the accuracy of modeling and training connected and autonomous vehicles by developing an integrated simulation environment (based on Unreal Engine 4) and training through the integration and modification of existing high-precision simulation and training tools using deep reinforcement learning.
-<img src="CAVISE.png" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; 
+
+<img src="CAVISE.png" style="width: 300px; height: auto; display: block; margin: auto;"/>
 
 ## 🔧 Technologies and Tools:
 ### Programming Languages:
 | Python3 | C++ |
 |----------|----------|
 | <img src="python.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="cplusplus.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
+
+## 🔧 Tools:
+| Wireshark | VirtualBox | Git |
+|----------|----------|----------|
+| <img src="wireshark.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="virtualbox.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="git.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
 
 ### Operating Systems:
 | Linux | Windows | Ubuntu |
@@ -45,6 +51,6 @@ CAVISE aims to enhance the accuracy of modeling and training connected and auton
 ### 🌱 I’m currently learning ...
 
 ## 📫 Contact
-- Email: [khorogri@gmail.com]
+- Email: khorogri@gmail.com
 - GitHub: [Haralishev77](https://github.com/Haralishev77)
-- Telegram: [Haralishev77][[@Haralishev77](https://t.me/Haralishev77)]
+- Telegram: [Haralishev77](https://t.me/Haralishev77)
