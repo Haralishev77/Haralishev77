@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Haralishev77/Haralishev77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, I'm Grigoriy Khoroshilov!
+
+## 👋 About Me
+
+## 🔧 Technologies and Tools:
+###Programming Languages:
+| Python3 | C++ |
+|----------|----------|
+| <img src="python.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="cplusplus.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
+
+###Operating Systems:
+| Linux | Windows | Ubuntu |
+| <img src="linux.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="windows10.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="ubuntu.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
+
+
+## 💡 Skills
+- Cryptography
+- Programming
+- OWASP Top 10
+- Machine Learning
+
+## 📂 Projects
+### [CAVISE](https://github.com/CAVISE)
+CAVISE aims to enhance the accuracy of modeling and training connected and autonomous vehicles by developing an integrated simulation environment (based on Unreal Engine 4) and training through the integration and modification of existing high-precision simulation and training tools using deep reinforcement learning.
+
+![CAVISE](<img src="CAVISE.png" alt="header" width=100%;>)
+
+#### Technological Stack:
+- Python
+- C++
+- CMake
+- Unreal Engine 4
+- Docker
+
+## 📫 Contact
+- Email: [khorogri@gmail.com]
+- GitHub: [your-GitHub](https://github.com/Haralishev77)
+- Telegram: [@Haralishev77]
