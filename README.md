@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ###Operating Systems:
 | Linux | Windows | Ubuntu |
+|----------|----------|----------|
 | <img src="linux.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="windows10.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="ubuntu.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
 
 
