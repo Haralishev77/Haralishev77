@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - Cryptography
 - Machine Learning
 - OWASP Top 10
+- ...
 
 ## 📂 Projects
 ### <img src="CAVISE.png" style="width: 32px; height: auto; display: block; margin: auto;"/> [CAVISE](https://github.com/CAVISE)
@@ -34,17 +35,17 @@ CAVISE aims to enhance the accuracy of modeling and training connected and auton
 ### Programming Languages:
 | Python3 | C++ |
 |----------|----------|
-| <img src="python.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="cplusplus.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
 
 ## 🔧 Tools:
-| Wireshark | VirtualBox | Git |
-|----------|----------|----------|
-| <img src="wireshark.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="virtualbox.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="git.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
+| VirtualBox | Git |
+|----------|----------|
+| <img src="VirtualBox.png" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
 
 ### Operating Systems:
-| Linux | Windows | Ubuntu |
+| Windows | Linux | Ubuntu |
 |----------|----------|----------|
-| <img src="linux.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="windows10.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="ubuntu.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
 
 ### 🔭 I’m currently working on ...
 
