@@ -54,3 +54,7 @@ CAVISE aims to enhance the accuracy of modeling and training connected and auton
 - Email: khorogri@gmail.com
 - GitHub: [Haralishev77](https://github.com/Haralishev77)
 - Telegram: [Haralishev77](https://t.me/Haralishev77)
+
+| :-: | :------------ | :-------------------------------------------------------------------------------------------------------- |
+| 1   | <img src="linux.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp;       | ![<img src="linux.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp;](https://github.com/Haralishev77)                    |
+| 5   | For-the-badge | ![For-the-badge](https://shields.io/badge/style-for--the--badge-03650f?logo=appveyor&style=for-the-badge) |
