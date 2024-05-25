@@ -16,17 +16,7 @@ Here are some ideas to get you started:
 
 ## 👋 About Me
 
-## 🔧 Technologies and Tools:
-###Programming Languages:
-| Python3 | C++ |
-|----------|----------|
-| <img src="python.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="cplusplus.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
-
-###Operating Systems:
-| Linux | Windows | Ubuntu |
-|----------|----------|----------|
-| <img src="linux.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="windows10.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="ubuntu.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
-
+...
 
 ## 💡 Skills
 - Cryptography
@@ -37,17 +27,24 @@ Here are some ideas to get you started:
 ## 📂 Projects
 ### [CAVISE](https://github.com/CAVISE)
 CAVISE aims to enhance the accuracy of modeling and training connected and autonomous vehicles by developing an integrated simulation environment (based on Unreal Engine 4) and training through the integration and modification of existing high-precision simulation and training tools using deep reinforcement learning.
+<img src="CAVISE.png" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; 
 
-![CAVISE](<img src="CAVISE.png" alt="header" width=100%;>)
+## 🔧 Technologies and Tools:
+### Programming Languages:
+| Python3 | C++ |
+|----------|----------|
+| <img src="python.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="cplusplus.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
 
-#### Technological Stack:
-- Python
-- C++
-- CMake
-- Unreal Engine 4
-- Docker
+### Operating Systems:
+| Linux | Windows | Ubuntu |
+|----------|----------|----------|
+| <img src="linux.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="windows10.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="ubuntu.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
+
+### 🔭 I’m currently working on ...
+
+### 🌱 I’m currently learning ...
 
 ## 📫 Contact
 - Email: [khorogri@gmail.com]
-- GitHub: [your-GitHub](https://github.com/Haralishev77)
-- Telegram: [@Haralishev77]
+- GitHub: [Haralishev77](https://github.com/Haralishev77)
+- Telegram: [Haralishev77][[@Haralishev77](https://t.me/Haralishev77)]
