@@ -44,7 +44,7 @@ CAVISE aims to enhance the accuracy of modeling and training connected and auton
 ### 🔧 Tools:
 | VirtualBox | Git | Docker |
 |----------|----------|----------|
-| <img src="VirtualBox.png" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="Docker.png" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
+| <img src="VirtualBox.png" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="Docker1.png" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
 
 ### 🎏 Operating Systems:
 | Windows | Linux | Ubuntu |
