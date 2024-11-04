@@ -38,18 +38,18 @@ CAVISE aims to enhance the accuracy of modeling and training connected and auton
 ## Technologies and Tools
 ### 🌌 Programming Languages:
 | Python3 | C++ |
-|----------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
+|:----------:|:----------:|
+| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 60px; height: 60px; display: block;" /></div> |
 
 ### 🔧 Tools:
 | VirtualBox | Git | Docker |
-|----------|----------|----------|
-| <img src="VirtualBox.png" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="Docker.png" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
+|:----------:|:----------:|:----------:|
+| <div align="center"><img src="VirtualBox.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Docker.png" style="width: 60px; height: 60px; display: block;" /></div> |
 
 ### 🎏 Operating Systems:
 | Windows | Linux | Ubuntu |
-|----------|----------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="width: 60px; height: 60px; display: block; margin: auto;" />&nbsp; |
+|:----------:|:----------:|:----------:|
+| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="width: 60px; height: 60px; display: block;" /></div> |
 
 ### 💻 I’m currently working on CAVISE:
 - Developing a simulator for modeling scenarios involving connected autonomous vehicles.
