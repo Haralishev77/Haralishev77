@@ -31,7 +31,7 @@ My name is Grigoriy Khoroshilov, and I've been studying at HSE University since 
 
 CAVISE aims to enhance the accuracy of modeling and training connected and autonomous vehicles by developing an integrated simulation environment (based on Unreal Engine 4) and training through the integration and modification of existing high-precision simulation and training tools using deep reinforcement learning. [CAVISE](https://github.com/CAVISE)
 
-<div align="center"><img src="CAVISE.png" style="width: 300px; height: auto;"/></div>
+<div align="center"><img src="CAVISE_LOGO.png" style="width: 300px; height: auto;"/></div>
 
 
 
