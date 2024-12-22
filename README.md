@@ -20,6 +20,7 @@ My name is Grigoriy Khoroshilov, and I've been studying at HSE University since 
 
 ## 💡 Skills
 - Programming
+- CI/CD
 - Cryptography
 - Machine Learning
 - OWASP Top 10
@@ -29,7 +30,7 @@ My name is Grigoriy Khoroshilov, and I've been studying at HSE University since 
 
 ### CAVISE
 
-CAVISE aims to enhance the accuracy of modeling and training connected and autonomous vehicles by developing an integrated simulation environment (based on Unreal Engine 4) and training through the integration and modification of existing high-precision simulation and training tools using deep reinforcement learning. [CAVISE](https://github.com/CAVISE)
+CAVISE aims to enhance the accuracy of modeling and training connected and autonomous vehicles by developing an integrated simulation environment (based on Unreal Engine 4/5) and training through the integration and modification of existing high-precision simulation and training tools using deep reinforcement learning. [CAVISE](https://github.com/CAVISE)
 
 <div align="center"><img src="CAVISE_LOGO.png" style="width: 1000px; height: auto;"/></div>
 
@@ -37,14 +38,19 @@ CAVISE aims to enhance the accuracy of modeling and training connected and auton
 
 ## Technologies and Tools
 ### 🌌 Programming Languages:
-| Python3 | C++ |
-|:----------:|:----------:|
-| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 60px; height: 60px; display: block;" /></div> |
+| Python | C++ | Rust |
+|:----------:|:----------:|:----------:|
+| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Rust.png" style="width: 60px; height: 60px; display: block;" /></div> |
 
 ### 🔧 Tools:
-| VirtualBox | Git | Docker |
-|:----------:|:----------:|:----------:|
-| <div align="center"><img src="VirtualBox.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Docker.png" style="width: 60px; height: 60px; display: block;" /></div> |
+| VirtualBox | VMWare | Git | Docker |
+|:----------:|:----------:|:----------:|:----------:|
+| <div align="center"><img src="VirtualBox.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="VMware.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Docker.png" style="width: 60px; height: 60px; display: block;" /></div> |
+
+### ⚡ Services:
+| Gitlab | Jenkins | Nexus | Harbor | DefectDojo | Vault Warden | Wazuh |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| <div align="center"><img src="Gitlab.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Jenkins.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Sonatype.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Harbor.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="DefectDojo.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="VaultWarden.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Wazuh.png" style="width: 60px; height: 60px; display: block;" /></div> |
 
 ### 🎏 Operating Systems:
 | Windows | Linux | Ubuntu |
@@ -56,12 +62,16 @@ CAVISE aims to enhance the accuracy of modeling and training connected and auton
 - Designing and implementing realistic traffic scenarios to test and evaluate the behavior and performance of autonomous systems.
 - Developing a software implementation for data transmission between frameworks to enable detailed modeling of signal propagation between connected autonomous vehicles.
 - Integrating various machine learning models into the simulation environment to enable comprehensive testing and analysis.
+- Combining signal modeling and machine learning to improve autonomous vehicle simulations.
 
 ### 🎓 I’m currently learning:
 - Vulnerabilities and information security to understand and mitigate potential threats to digital systems.
 - Network security protocols and encryption techniques to protect data integrity and confidentiality.
 - Ethical hacking and penetration testing to identify and address security weaknesses in various systems and applications.
 - Machine Learning to create and train models for connected autonomous vehicles using deep reinforcement learning. My goal is to contribute to the development of safe and efficient autonomous transportation systems.
+
+## Publications
+- I. Doroshev, G. Khoroshilov and V. Stepanyants, "Evaluation of Cooperative Perception Algorithms in Simulation Environments with Realistic Communication Models," 2024 International Russian Automation Conference (RusAutoCon), Sochi, Russian Federation, 2024, pp. 943-947, doi: 10.1109/RusAutoCon61949.2024.10694627. (https://ieeexplore.ieee.org/document/10694627)
 
 ## 📫 Contact
 - <img src="gmail.svg" style="width: 16px; height: 16px; display: block; margin: auto;" />&nbsp;Email: khorogri@gmail.com
