@@ -38,14 +38,14 @@ CAVISE aims to enhance the accuracy of modeling and training connected and auton
 
 ## Technologies and Tools
 ### 🌌 Programming Languages:
-| Python | C++ | Rust |
-|:----------:|:----------:|:----------:|
-| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Rust.png" style="width: 60px; height: 60px; display: block;" /></div> |
+| Python | C++ | Bash | Rust |
+|:----------:|:----------:|:----------:|:----------:|
+| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://camo.githubusercontent.com/a66396d682e18c587f9ac9aa24763420888958b28c7554f6b957f2c5d3c45b10/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f626173682f626173682d6f726967696e616c2e737667" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Rust.png" style="width: 60px; height: 60px; display: block;" /></div> |
 
 ### 🔧 Tools:
-| VirtualBox | VMWare | Git | Docker |
-|:----------:|:----------:|:----------:|:----------:|
-| <div align="center"><img src="VirtualBox.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="VMware.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Docker.png" style="width: 60px; height: 60px; display: block;" /></div> |
+| VirtualBox | VMWare | Git | Docker | Burpsuite |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| <div align="center"><img src="VirtualBox.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="VMware.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Docker.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Burpsuite.png" style="width: 60px; height: 60px; display: block;" /></div> |
 
 ### ⚡ Services:
 | Gitlab | Jenkins | Nexus | Harbor | DefectDojo | Vault Warden | Wazuh |
