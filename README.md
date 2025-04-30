@@ -1,18 +1,6 @@
-<!--
-**Haralishev77/Haralishev77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=wave&height=400&color=gradient&text=Hello,%20it's%20Grigoriy%20Khoroshilov&reversal=false&textBg=false&fontAlign=50&fontSize=50&desc=AppSec/DevSecOps&descAlignY=68" width="100%">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hello, I'm Grigoriy Khoroshilov!
+<br><br><br>
 
 ## 👋 About Me
 
@@ -35,27 +23,48 @@ CAVISE aims to enhance the accuracy of modeling and training connected and auton
 <div align="center"><img src="CAVISE_LOGO.png" style="width: 1000px; height: auto;"/></div>
 
 
+---
+<h3 align="center">Core Stack</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,git,docker,bash,gitlab,jenkins,vscode,windows,arch,ubuntu" />
+  </a>
+</p>
 
-## Technologies and Tools
-### 🌌 Programming Languages:
-| Python | C++ | Bash | Rust |
-|:----------:|:----------:|:----------:|:----------:|
-| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://camo.githubusercontent.com/a66396d682e18c587f9ac9aa24763420888958b28c7554f6b957f2c5d3c45b10/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f626173682f626173682d6f726967696e616c2e737667" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Rust.png" style="width: 60px; height: 60px; display: block;" /></div> |
+<h3 align="center">Familiar With</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,cpp,c,gradle,maven,nginx,postman" />
+  </a>
+</p>
+
+<h3 align="center">Currently Learning</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,kubernetes" />
+  </a>
+</p>
+
+<h3 align="center">Next Up</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ansible" />
+  </a>
+</p>
+
+---
+
 
 ### 🔧 Tools:
-| VirtualBox | VMWare | Git | Docker | Burpsuite |
-|:----------:|:----------:|:----------:|:----------:|:----------:|
-| <div align="center"><img src="VirtualBox.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="VMware.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Docker.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Burpsuite.png" style="width: 60px; height: 60px; display: block;" /></div> |
+
+| VirtualBox | VMWare | Burpsuite |
+|:----------:|:----------:|:----------:|
+| <div align="center"><img src="VirtualBox.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="VMware.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Burpsuite.png" style="width: 60px; height: 60px; display: block;" /></div> |
 
 ### ⚡ Services:
-| Gitlab | Jenkins | Nexus | Harbor | DefectDojo | Vault Warden | Wazuh |
-|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| <div align="center"><img src="Gitlab.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Jenkins.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Sonatype.jpg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Harbor.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="DefectDojo.jpg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="VaultWarden.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Wazuh.png" style="width: 180px; height: 60px; display: block;" /></div> |
-
-### 🎏 Operating Systems:
-| Windows | Linux | Ubuntu |
-|:----------:|:----------:|:----------:|
-| <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style="width: 60px; height: 60px; display: block;" /></div> |
+| Nexus | Harbor | DefectDojo | Vault Warden | Wazuh |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| <div align="center"><img src="Sonatype.jpg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Harbor.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="DefectDojo.jpg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="VaultWarden.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Wazuh.png" style="width: 180px; height: 60px; display: block;" /></div> |
 
 ### 💻 I’m currently working on CAVISE:
 - Developing a simulator for modeling scenarios involving connected autonomous vehicles.
@@ -70,10 +79,49 @@ CAVISE aims to enhance the accuracy of modeling and training connected and auton
 - Ethical hacking and penetration testing to identify and address security weaknesses in various systems and applications.
 - Machine Learning to create and train models for connected autonomous vehicles using deep reinforcement learning. My goal is to contribute to the development of safe and efficient autonomous transportation systems.
 
-## Publications
+### Publications
+
+---
+
 - I. Doroshev, G. Khoroshilov and V. Stepanyants, "Evaluation of Cooperative Perception Algorithms in Simulation Environments with Realistic Communication Models," 2024 International Russian Automation Conference (RusAutoCon), Sochi, Russian Federation, 2024, pp. 943-947, doi: 10.1109/RusAutoCon61949.2024.10694627. (https://ieeexplore.ieee.org/document/10694627)
 
-## 📫 Contact
-- <img src="gmail.svg" style="width: 16px; height: 16px; display: block; margin: auto;" />&nbsp;Email: khorogri@gmail.com
-- <img src="github.svg" style="width: 16px; height: 16px; display: block; margin: auto;" />&nbsp;GitHub: [Haralishev77](https://github.com/Haralishev77)
-- <img src="telegram.svg" style="width: 16px; height: 16px; display: block; margin: auto;" />&nbsp;Telegram: [Haralishev77](https://t.me/Haralishev77)
+---
+
+### 📈 My GitHub stats
+
+---
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Haralishev77&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Haralishev77's Stats" height="250">
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>🌐 Contact</h3>
+  <p>
+    <a href="https://t.me/Haralishev77" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    &nbsp;
+    <a href="mailto:khorogri@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Haralishev77" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+  </p>
+</div>
+
+---
+
+<br><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&reversal=true&textBg=false&fontAlign=50&section=footer" width="100%">
