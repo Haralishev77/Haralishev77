@@ -1,29 +1,52 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&height=400&color=gradient&text=Hello,%20it's%20Grigoriy%20Khoroshilov&reversal=false&textBg=false&fontAlign=50&fontSize=50&desc=AppSec/DevSecOps&descAlignY=68" width="100%">
 
-<br><br><br>
+<br>
 
-## 👋 About Me
+<!-- About Me -->
+<div align="center">
+  <h3>👤 About Me</h3>
+</div>
 
-My name is Grigoriy Khoroshilov, and I've been studying at HSE University since 2022, specializing in Information Security. I'm passionate about identifying vulnerabilities and developing countermeasures. Additionally, I'm studying machine learning to address further tasks within the CAVISE project, of which I'm a participant.
+<div align="left">
+  <p>
+    My name is <strong>Grigoriy Khoroshilov</strong>, and I've been studying at <strong>HSE University</strong> since 2022, specializing in <strong>Information Security</strong>.<br />
+    I'm passionate about identifying vulnerabilities and developing countermeasures.<br />
+    Additionally, I'm studying <strong>machine learning</strong> to address further tasks within the <strong>CAVISE</strong> project, of which I'm a participant.
+  </p>
+</div>
 
-## 💡 Skills
-- Programming
-- CI/CD
-- Cryptography
-- Machine Learning
-- OWASP Top 10
-- Network Utilities
-
-## 🔮 Projects
-
-### CAVISE
-
-CAVISE aims to enhance the accuracy of modeling and training connected and autonomous vehicles by developing an integrated simulation environment (based on Unreal Engine 4/5) and training through the integration and modification of existing high-precision simulation and training tools using deep reinforcement learning. [CAVISE](https://github.com/CAVISE)
-
-<div align="center"><img src="CAVISE_LOGO.png" style="width: 1000px; height: auto;"/></div>
+<br>
 
 
 ---
+<!-- Projects -->
+<br>
+
+<div align="center">
+  <h3>🔮 Projects</h3>
+</div>
+
+<div align="Left">
+  <p>
+    <strong>CAVISE</strong> aims to enhance the accuracy of modeling and training connected and autonomous vehicles by developing an integrated simulation environment (based on Unreal Engine 4/5).
+    It focuses on training through the integration and modification of existing high-precision simulation and training tools using deep reinforcement learning.
+  </p>
+</div>
+
+<div align="center"><img src="CAVISE_LOGO.png" style="width: 1000px; height: auto;"/></div>
+
+<div align="center">
+  <a href="https://github.com/CAVISE" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-CAVISE-181717?style=for-the-badge&logo=github&logoColor=white" alt="CAVISE GitHub Repo" />
+  </a>
+</div>
+
+<br>
+
+---
+
+<br>
+
 <h3 align="center">Core Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -52,44 +75,50 @@ CAVISE aims to enhance the accuracy of modeling and training connected and auton
   </a>
 </p>
 
----
-
-
-### 🔧 Tools:
-
-| VirtualBox | VMWare | Burpsuite |
-|:----------:|:----------:|:----------:|
-| <div align="center"><img src="VirtualBox.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="VMware.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Burpsuite.png" style="width: 60px; height: 60px; display: block;" /></div> |
-
-### ⚡ Services:
-| Nexus | Harbor | DefectDojo | Vault Warden | Wazuh |
-|:----------:|:----------:|:----------:|:----------:|:----------:|
-| <div align="center"><img src="Sonatype.jpg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Harbor.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="DefectDojo.jpg" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="VaultWarden.png" style="width: 60px; height: 60px; display: block;" /></div> | <div align="center"><img src="Wazuh.png" style="width: 180px; height: 60px; display: block;" /></div> |
-
-### 💻 I’m currently working on CAVISE:
-- Developing a simulator for modeling scenarios involving connected autonomous vehicles.
-- Designing and implementing realistic traffic scenarios to test and evaluate the behavior and performance of autonomous systems.
-- Developing a software implementation for data transmission between frameworks to enable detailed modeling of signal propagation between connected autonomous vehicles.
-- Integrating various machine learning models into the simulation environment to enable comprehensive testing and analysis.
-- Combining signal modeling and machine learning to improve autonomous vehicle simulations.
-
-### 🎓 I’m currently learning:
-- Vulnerabilities and information security to understand and mitigate potential threats to digital systems.
-- Network security protocols and encryption techniques to protect data integrity and confidentiality.
-- Ethical hacking and penetration testing to identify and address security weaknesses in various systems and applications.
-- Machine Learning to create and train models for connected autonomous vehicles using deep reinforcement learning. My goal is to contribute to the development of safe and efficient autonomous transportation systems.
-
-### Publications
+<br>
 
 ---
 
-- I. Doroshev, G. Khoroshilov and V. Stepanyants, "Evaluation of Cooperative Perception Algorithms in Simulation Environments with Realistic Communication Models," 2024 International Russian Automation Conference (RusAutoCon), Sochi, Russian Federation, 2024, pp. 943-947, doi: 10.1109/RusAutoCon61949.2024.10694627. (https://ieeexplore.ieee.org/document/10694627)
+<br>
+
+<div align="center">
+  <h3>📚 Publications</h3>
+</div>
+
+<!-- Publication 1 -->
+<div align="left">
+  <p>
+    <strong>I. Doroshev, G. Khoroshilov and V. Stepanyants</strong>,<br />
+    "<i>Evaluation of Cooperative Perception Algorithms in Simulation Environments with Realistic Communication Models</i>",<br />
+    2024 International Russian Automation Conference (RusAutoCon), Sochi, Russian Federation, 2024, pp. 943–947.<br />
+    DOI: <a href="https://doi.org/10.1109/RusAutoCon61949.2024.10694627" target="_blank">10.1109/RusAutoCon61949.2024.10694627</a>
+  </p>
+</div>
+
+<div align="center">
+  <a href="https://ieeexplore.ieee.org/document/10694627" target="_blank">
+    <img src="https://img.shields.io/badge/IEEE%20Xplore-DarkBlue?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore Publication" />
+  </a>
+</div>
+
+<!-- Publication 2 (in progress) -->
+<div align="left">
+  <p>
+    <strong>I. Dolgov, G. Khoroshilov and V. Stepanyants</strong>,<br />
+    "<i>CAVISE: Connected and Automated Vehicle Integrated Simulation Environment for Realistic … Modeling</i>",<br />
+    🔄 <em>In progress — submission planned for ..., 2025</em>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=githubactions&logoColor=black" alt="In Progress Badge" />
+</div>
+
+<br>
 
 ---
 
-### 📈 My GitHub stats
-
----
+<br>
 
 <div class="badges-githubstats">
   <p align="center">
@@ -97,7 +126,7 @@ CAVISE aims to enhance the accuracy of modeling and training connected and auton
   </p>
 </div>
 
----
+<br>
 
 <div align="center">
   <h3>🌐 Contact</h3>
@@ -114,14 +143,12 @@ CAVISE aims to enhance the accuracy of modeling and training connected and auton
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
-    <a href="" target="_blank">
+    <a href="https://discordapp.com/users/541607595320803338" target="_blank">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
   </p>
 </div>
 
----
-
-<br><br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&reversal=true&textBg=false&fontAlign=50&section=footer" width="100%">
