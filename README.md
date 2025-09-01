@@ -64,8 +64,9 @@
 <h3 align="center">Currently Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,kubernetes" />
-    <img src="bpftrace.png">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=c%2B%2B"><br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=326CE5"><br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/bpftrace-DDB215?style=for-the-badge&logo=bpftrace">
   </a>
 </p>
 
