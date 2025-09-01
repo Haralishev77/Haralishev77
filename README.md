@@ -63,11 +63,9 @@
 
 <h3 align="center">Currently Learning</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=c%2B%2B"><br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=326CE5"><br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/bpftrace-DDB215?style=for-the-badge&logo=bpftrace">
-  </a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=c%2B%2B"><br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=326CE5"><br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/bpftrace-DDB215?style=for-the-badge&logo=bpftrace">
 </p>
 
 <h3 align="center">Next Up</h3>
@@ -132,23 +130,18 @@
 
 <div align="center">
   <h3>🌐 Contact</h3>
-  <p>
-    <a href="https://t.me/Haralishev77" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <a href="https://t.me/Haralishev77" target="_blank" align="center">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /><br>
     </a>
-    &nbsp;
-    <a href="mailto:khorogri@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:khorogri@gmail.com" target="_blank" align="center">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /><br>
     </a>
-    &nbsp;
-    <a href="https://github.com/Haralishev77" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://github.com/Haralishev77" target="_blank align="center"">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br>
     </a>
-    &nbsp;
-    <a href="https://discordapp.com/users/541607595320803338" target="_blank">
+    <a href="https://discordapp.com/users/541607595320803338" target="_blank" align="center">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
-  </p>
 </div>
 
 <br>
