@@ -50,21 +50,22 @@
 <h3 align="center">Core Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,docker,bash,gitlab,jenkins,vscode,windows,arch,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=python,git,docker,bash,gitlab,jenkins,vscode,windows,ubuntu" />
   </a>
 </p>
 
 <h3 align="center">Familiar With</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,cpp,c,gradle,maven,nginx,postman" />
+    <img src="https://skillicons.dev/icons?i=rust,go,c,gradle,maven,nginx,postman,arch" />
   </a>
 </p>
 
 <h3 align="center">Currently Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=cpp,kubernetes" />
+    <img src="bpftrace.png">
   </a>
 </p>
 
