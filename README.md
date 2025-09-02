@@ -50,41 +50,41 @@
 <h3 align="center">Core Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Static Badge" src="https://img.shields.io/badge/python-FFE873?style=for-the-badge&logo=python">
+    <img alt="python" src="https://img.shields.io/badge/python-FFE873?style=for-the-badge&logo=python">
 <br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F">
+    <img alt="git" src="https://img.shields.io/badge/git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F">
 <br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"><br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/bash-FFFFFF?style=for-the-badge&logo=bash"><br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/gitlab-E2432A?style=for-the-badge&logo=gitlab&logoColor=FFFFFF"><br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/jenkins-D33834?style=for-the-badge&logo=jenkins&logoColor=6D6B6D"><br>
+    <img alt="docker" src="https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"><br>
+    <img alt="bash" src="https://img.shields.io/badge/bash-FFFFFF?style=for-the-badge&logo=bash"><br>
+    <img alt="gitlab" src="https://img.shields.io/badge/gitlab-E2432A?style=for-the-badge&logo=gitlab&logoColor=FFFFFF"><br>
+    <img alt="jenkins" src="https://img.shields.io/badge/jenkins-D33834?style=for-the-badge&logo=jenkins&logoColor=6D6B6D"><br>
   </a>
 </p>
 
 <h3 align="center">Familiar With</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Static Badge" src="https://img.shields.io/badge/rust-D81835?style=for-the-badge&logo=rust&logoColor=FFFFFF&logoSize=100"><br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/go-29BEB0?style=for-the-badge&logo=go&logoColor=FFFFFF&logoSize=100"><br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/c-5C4CCC?style=for-the-badge&logo=c&logoColor=FFFFFF&logoSize=100"><br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/gradle-010002?style=for-the-badge&logo=gradle&logoColor=209BC4&logoSize=100"><br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/maven-D81835?style=for-the-badge&logo=maven&logoSize=100"><br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=FFFFFF&logoSize=100"><br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/postman-EF5B25?style=for-the-badge&logo=postman&logoColor=FFFFFF&logoSize=100"><br>
+    <img alt="rust" src="https://img.shields.io/badge/rust-D81835?style=for-the-badge&logo=rust&logoColor=FFFFFF&logoSize=100"><br>
+    <img alt="go" src="https://img.shields.io/badge/go-29BEB0?style=for-the-badge&logo=go&logoColor=FFFFFF&logoSize=100"><br>
+    <img alt="c" src="https://img.shields.io/badge/c-5C4CCC?style=for-the-badge&logo=c&logoColor=FFFFFF&logoSize=100"><br>
+    <img alt="gradle" src="https://img.shields.io/badge/gradle-010002?style=for-the-badge&logo=gradle&logoColor=209BC4&logoSize=100"><br>
+    <img alt="maven" src="https://img.shields.io/badge/maven-D81835?style=for-the-badge&logo=maven&logoSize=100"><br>
+    <img alt="nginx" src="https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=FFFFFF&logoSize=100"><br>
+    <img alt="postman" src="https://img.shields.io/badge/postman-EF5B25?style=for-the-badge&logo=postman&logoColor=FFFFFF&logoSize=100"><br>
   </a>
 </p>
 
 <h3 align="center">Currently Learning</h3>
 <p align="center">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=c%2B%2B"><br>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=326CE5"><br>
+  <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=c%2B%2B"><br>
+  <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=326CE5"><br>
   <img alt="bpftrace" src="https://img.shields.io/badge/bpftrace-DDB215?style=for-the-badge&logo=bpftrace">
 </p>
 
 <h3 align="center">Next Up</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img alt="Static Badge" src="https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=FFFFFF&logoSize=100">
+    <img alt="ansible" src="https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=FFFFFF&logoSize=100">
   </a>
 </p>
 
