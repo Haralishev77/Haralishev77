@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&height=400&color=gradient&text=Hello,%20it's%20Grigoriy%20Khoroshilov&reversal=false&textBg=false&fontAlign=50&fontSize=50&desc=AppSec/DevSecOps&descAlignY=68" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=wave&height=400&color=gradient&text=Hello,%20it's%20Grigoriy%20Khoroshilov&reversal=false&textBg=false&fontAlign=50&fontSize=50&desc=AppSec/DevSecOps/SOC&descAlignY=68" width="100%">
 
 <br>
 
@@ -9,11 +9,24 @@
 
 <div align="left">
   <p>
-    My name is <strong>Grigoriy Khoroshilov</strong>, and I've been studying at <strong>HSE University</strong> since 2022, specializing in <strong>Information Security</strong>.<br />
-    I'm passionate about identifying vulnerabilities and developing countermeasures.<br />
+    My name is <strong>Grigoriy Khoroshilov</strong>, and I've been studying at <strong>HSE University</strong> since 2022, specializing in <strong>Information Security</strong>.<br>
+    I'm passionate about identifying vulnerabilities and developing countermeasures.<br>
     Additionally, I'm studying <strong>machine learning</strong> to address further tasks within the <strong>CAVISE</strong> project, of which I'm a participant.
   </p>
 </div>
+
+<div align="center">
+  <h3>🔧 Responsibilities</h3>
+</div>
+
+- Building and maintaining **secure development processes (SSDLC)**;
+- Performing **security audits** and defining security requirements;
+- Deploying and administering infrastructure using **Docker-rootless**;
+- Implementing CI/CD pipelines with **SAST**, **SCA**, and **SBOM** integrations, including automated report uploads;
+- Monitoring and managing security events with **Wazuh**;
+- Developing decoders and rules for **Wazuh**;
+- Investigating security incidents: analyzing malware, attack scripts, and writing reports;
+- **YARA** rule writing and automating incident response.
 
 <br>
 
@@ -33,7 +46,7 @@
   </p>
 </div>
 
-<div align="center"><img src="CAVISE_LOGO.png" style="width: 1000px; height: auto;"/></div>
+<div align="center"><img src="CAVISE.png" style="width: 1000px; height: auto;"/></div>
 
 <div align="center">
   <a href="https://github.com/CAVISE" target="_blank">
@@ -49,29 +62,28 @@
 
 <h3 align="center">Core Stack</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="python" src="https://img.shields.io/badge/python-FFE873?style=for-the-badge&logo=python">
-<br>
-    <img alt="git" src="https://img.shields.io/badge/git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F">
-<br>
-    <img alt="docker" src="https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"><br>
-    <img alt="bash" src="https://img.shields.io/badge/bash-FFFFFF?style=for-the-badge&logo=bash"><br>
-    <img alt="gitlab" src="https://img.shields.io/badge/gitlab-E2432A?style=for-the-badge&logo=gitlab&logoColor=FFFFFF"><br>
-    <img alt="jenkins" src="https://img.shields.io/badge/jenkins-D33834?style=for-the-badge&logo=jenkins&logoColor=6D6B6D"><br>
-  </a>
+  <img alt="python" src="https://img.shields.io/badge/python-FFE873?style=for-the-badge&logo=python"><br>
+  <img alt="git" src="https://img.shields.io/badge/git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F"><br>
+  <img alt="docker" src="https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"><br>
+  <img alt="bash" src="https://img.shields.io/badge/bash-2B3539?style=for-the-badge&logo=bash&logoColor=39B34A"><br>
+  <img alt="wazuh" src="https://img.shields.io/badge/wazuh-3595F9?style=for-the-badge&logo=wazuh&logoColor=FFFFFF"><br>
+  <img alt="defectdojo" src="https://img.shields.io/badge/defectdojo-094D77?style=for-the-badge&logo=defectdojo&logoColor=FFFFFF"><br>
+  <img alt="gitlab" src="https://img.shields.io/badge/gitlab-E2432A?style=for-the-badge&logo=gitlab&logoColor=FFFFFF"><br>
+  <img alt="jenkins" src="https://img.shields.io/badge/jenkins-D33834?style=for-the-badge&logo=jenkins&logoColor=6D6B6D"><br>
 </p>
 
 <h3 align="center">Familiar With</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="rust" src="https://img.shields.io/badge/rust-D81835?style=for-the-badge&logo=rust&logoColor=FFFFFF&logoSize=100"><br>
-    <img alt="go" src="https://img.shields.io/badge/go-29BEB0?style=for-the-badge&logo=go&logoColor=FFFFFF&logoSize=100"><br>
-    <img alt="c" src="https://img.shields.io/badge/c-5C4CCC?style=for-the-badge&logo=c&logoColor=FFFFFF&logoSize=100"><br>
-    <img alt="gradle" src="https://img.shields.io/badge/gradle-010002?style=for-the-badge&logo=gradle&logoColor=209BC4&logoSize=100"><br>
-    <img alt="maven" src="https://img.shields.io/badge/maven-D81835?style=for-the-badge&logo=maven&logoSize=100"><br>
-    <img alt="nginx" src="https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=FFFFFF&logoSize=100"><br>
-    <img alt="postman" src="https://img.shields.io/badge/postman-EF5B25?style=for-the-badge&logo=postman&logoColor=FFFFFF&logoSize=100"><br>
-  </a>
+  <img alt="go" src="https://img.shields.io/badge/go-29BEB0?style=for-the-badge&logo=go&logoColor=FFFFFF&logoSize=100"><br>
+  <img alt="rust" src="https://img.shields.io/badge/rust-D81835?style=for-the-badge&logo=rust&logoColor=FFFFFF&logoSize=100"><br>
+  <img alt="c" src="https://img.shields.io/badge/c-5C4CCC?style=for-the-badge&logo=c&logoColor=FFFFFF&logoSize=100"><br>
+  <img alt="gradle" src="https://img.shields.io/badge/gradle-010002?style=for-the-badge&logo=gradle&logoColor=209BC4&logoSize=100"><br>
+  <img alt="maven" src="https://img.shields.io/badge/maven-D81835?style=for-the-badge&logo=maven&logoSize=100"><br>
+  <img alt="nginx" src="https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=FFFFFF&logoSize=100"><br>
+  <img alt="wireshark" src="https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=FFFFFF"><br>
+  <img alt="burpsuite" src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=FFFFFF"><br>
+  <img alt="postman" src="https://img.shields.io/badge/postman-EF5B25?style=for-the-badge&logo=postman&logoColor=FFFFFF&logoSize=100"><br>
+  <img alt="harbor" src="https://img.shields.io/badge/harbor-696566?style=for-the-badge&logo=harbor&logoColor=55A832"><br>
 </p>
 
 <h3 align="center">Currently Learning</h3>
@@ -83,9 +95,7 @@
 
 <h3 align="center">Next Up</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="ansible" src="https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=FFFFFF&logoSize=100">
-  </a>
+  <img alt="ansible" src="https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=FFFFFF&logoSize=100">
 </p>
 
 <br>
