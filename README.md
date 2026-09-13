@@ -1,19 +1,23 @@
 <!-- Original SVG artwork lives in assets/. Text and links remain editable here. -->
+<a id="profile"></a>
 <img src="assets/workspace.svg" width="100%" alt="Grigoriy Khoroshilov — CAVISE, connected &amp; automated vehicles and security. Master's student at HSE University, MIEM.">
+
+<p align="center">
+  <a href="#profile"><img src="assets/tab-profile.svg" width="13.5%" alt="profile.md" title="Back to profile"></a>
+  <a href="#cavise"><img src="assets/tab-cavise.svg" width="13.5%" alt="CAVISE" title="Jump to CAVISE"></a>
+  <a href="#repositories"><img src="assets/tab-repositories.svg" width="13.5%" alt="repositories" title="Jump to repositories"></a>
+  <a href="#publications"><img src="assets/tab-publications.svg" width="13.5%" alt="publications" title="Jump to publications"></a>
+  <a href="#security"><img src="assets/tab-security.svg" width="13.5%" alt="security" title="Jump to security"></a>
+  <a href="#toolbox"><img src="assets/tab-toolbox.svg" width="13.5%" alt="toolbox" title="Jump to toolbox"></a>
+  <a href="#education"><img src="assets/tab-education.svg" width="13.5%" alt="education" title="Jump to education"></a>
+</p>
+
 
 <p align="center">
   <a href="https://t.me/Haralishev77"><img src="https://img.shields.io/badge/Telegram-1a1b27?style=for-the-badge&amp;logo=telegram&amp;logoColor=7dcfff" alt="Telegram"></a>
   <a href="mailto:khorogri@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&amp;logo=gmail&amp;logoColor=bb9af7" alt="Email"></a>
   <a href="https://discordapp.com/users/541607595320803338"><img src="https://img.shields.io/badge/Discord-1a1b27?style=for-the-badge&amp;logo=discord&amp;logoColor=7aa2f7" alt="Discord"></a>
   <a href="https://github.com/CAVISE"><img src="https://img.shields.io/badge/CAVISE-1a1b27?style=for-the-badge&amp;logo=github&amp;logoColor=9ece6a" alt="CAVISE on GitHub"></a>
-</p>
-<p align="center">
-  <a href="#cavise">CAVISE</a> &nbsp; / &nbsp;
-  <a href="#repositories">Repositories</a> &nbsp; / &nbsp;
-  <a href="#publications">Publications</a> &nbsp; / &nbsp;
-  <a href="#security">Security</a> &nbsp; / &nbsp;
-  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
-  <a href="#education">Education</a>
 </p>
 
 <table>
