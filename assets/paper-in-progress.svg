@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title"><title id="title">CAVISE: Connected and Automated Vehicle Integrated Simulation Environment for Realistic … Modeling — In progress</title>
+<rect x="1" y="1" width="1198" height="218" rx="12" fill="#1a1b27" stroke="#343b58"/>
+<path d="M22 1H1178" stroke="#e0af68" stroke-opacity=".65"/>
+<text x="26" y="35" font-family="Consolas,monospace" font-size="13" font-weight="400" fill="#e0af68">IN PROGRESS / CAVISE</text>
+<text x="26" y="80" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="600" fill="#c0caf5">CAVISE: Connected and Automated Vehicle Integrated Simulation</text>
+<text x="26" y="114" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="600" fill="#c0caf5">Environment for Realistic … Modeling</text>
+<text x="26" y="153" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400" fill="#a9b1d6">I. Dolgov, G. Khoroshilov, and V. Stepanyants</text>
+<path d="M26 177H1174" stroke="#343b58"/>
+<circle cx="31" cy="202" r="4" fill="#e0af68"/>
+<text x="45" y="206" font-family="Consolas,monospace" font-size="12" font-weight="400" fill="#9aa5ce">IN PROGRESS</text>
+</svg>
