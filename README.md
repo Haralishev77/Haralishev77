@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&height=400&color=gradient&text=Hello,%20it's%20Grigoriy%20Khoroshilov&reversal=false&textBg=false&fontAlign=50&fontSize=50&desc=AppSec/DevSecOps/SOC&descAlignY=68" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=wave&height=400&color=gradient&text=Hello,%20it's%20Grigoriy%20Khoroshilov&reversal=false&textBg=false&fontAlign=50&fontSize=50&desc=AppSec/DevSecOps/SoC&descAlignY=68" width="100%">
 
 <br>
 
@@ -62,40 +62,36 @@
 
 <h3 align="center">Core Stack</h3>
 <p align="center">
-  <img alt="python" src="https://img.shields.io/badge/python-FFE873?style=for-the-badge&logo=python"><br>
-  <img alt="git" src="https://img.shields.io/badge/git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F"><br>
-  <img alt="docker" src="https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=FFFFFF"><br>
-  <img alt="bash" src="https://img.shields.io/badge/bash-2B3539?style=for-the-badge&logo=bash&logoColor=39B34A"><br>
-  <img alt="wazuh" src="https://img.shields.io/badge/wazuh-3595F9?style=for-the-badge&logo=wazuh&logoColor=FFFFFF"><br>
-  <img alt="defectdojo" src="https://img.shields.io/badge/defectdojo-094D77?style=for-the-badge&logo=defectdojo&logoColor=FFFFFF"><br>
-  <img alt="gitlab" src="https://img.shields.io/badge/gitlab-E2432A?style=for-the-badge&logo=gitlab&logoColor=FFFFFF"><br>
-  <img alt="jenkins" src="https://img.shields.io/badge/jenkins-D33834?style=for-the-badge&logo=jenkins&logoColor=6D6B6D"><br>
+  <img alt="python" src="https://img.shields.io/badge/python-FFE873?style=for-the-badge&logo=python">
+  <img alt="git" src="https://img.shields.io/badge/git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F">
+  <img alt="docker" src="https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=FFFFFF">
+  <img alt="bash" src="https://img.shields.io/badge/bash-2B3539?style=for-the-badge&logo=bash&logoColor=39B34A">
+  <img alt="wazuh" src="https://img.shields.io/badge/wazuh-3595F9?style=for-the-badge&logo=wazuh&logoColor=FFFFFF">
+  <img alt="defectdojo" src="https://img.shields.io/badge/defectdojo-094D77?style=for-the-badge&logo=defectdojo&logoColor=FFFFFF">
+  <img alt="gitlab" src="https://img.shields.io/badge/gitlab-E2432A?style=for-the-badge&logo=gitlab&logoColor=FFFFFF">
+  <img alt="jenkins" src="https://img.shields.io/badge/jenkins-D33834?style=for-the-badge&logo=jenkins&logoColor=6D6B6D">
 </p>
 
 <h3 align="center">Familiar With</h3>
 <p align="center">
-  <img alt="go" src="https://img.shields.io/badge/go-29BEB0?style=for-the-badge&logo=go&logoColor=FFFFFF&logoSize=100"><br>
-  <img alt="rust" src="https://img.shields.io/badge/rust-D81835?style=for-the-badge&logo=rust&logoColor=FFFFFF&logoSize=100"><br>
-  <img alt="c" src="https://img.shields.io/badge/c-5C4CCC?style=for-the-badge&logo=c&logoColor=FFFFFF&logoSize=100"><br>
-  <img alt="gradle" src="https://img.shields.io/badge/gradle-010002?style=for-the-badge&logo=gradle&logoColor=209BC4&logoSize=100"><br>
-  <img alt="maven" src="https://img.shields.io/badge/maven-D81835?style=for-the-badge&logo=maven&logoSize=100"><br>
-  <img alt="nginx" src="https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=FFFFFF&logoSize=100"><br>
-  <img alt="wireshark" src="https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=FFFFFF"><br>
-  <img alt="burpsuite" src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=FFFFFF"><br>
-  <img alt="postman" src="https://img.shields.io/badge/postman-EF5B25?style=for-the-badge&logo=postman&logoColor=FFFFFF&logoSize=100"><br>
-  <img alt="harbor" src="https://img.shields.io/badge/harbor-696566?style=for-the-badge&logo=harbor&logoColor=55A832"><br>
+  <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=c%2B%2B">
+  <img alt="rust" src="https://img.shields.io/badge/rust-D81835?style=for-the-badge&logo=rust&logoColor=FFFFFF&logoSize=100">
+  <img alt="c" src="https://img.shields.io/badge/c-5C4CCC?style=for-the-badge&logo=c&logoColor=FFFFFF&logoSize=100">
+  <img alt="gradle" src="https://img.shields.io/badge/gradle-010002?style=for-the-badge&logo=gradle&logoColor=209BC4&logoSize=100">
+  <img alt="maven" src="https://img.shields.io/badge/maven-D81835?style=for-the-badge&logo=maven&logoSize=100">
+  <img alt="nginx" src="https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=FFFFFF&logoSize=100">
+  <img alt="wireshark" src="https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=FFFFFF">
+  <img alt="burpsuite" src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=FFFFFF">
+  <img alt="postman" src="https://img.shields.io/badge/postman-EF5B25?style=for-the-badge&logo=postman&logoColor=FFFFFF&logoSize=100">
+  <img alt="harbor" src="https://img.shields.io/badge/harbor-696566?style=for-the-badge&logo=harbor&logoColor=55A832">
 </p>
 
 <h3 align="center">Currently Learning</h3>
 <p align="center">
-  <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=c%2B%2B"><br>
-  <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=326CE5"><br>
-  <img alt="bpftrace" src="https://img.shields.io/badge/bpftrace-DDB215?style=for-the-badge&logo=bpftrace">
-</p>
-
-<h3 align="center">Next Up</h3>
-<p align="center">
+  <img alt="go" src="https://img.shields.io/badge/go-29BEB0?style=for-the-badge&logo=go&logoColor=FFFFFF&logoSize=100">
   <img alt="ansible" src="https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=FFFFFF&logoSize=100">
+  <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
+  <img alt="bpftrace" src="https://img.shields.io/badge/bpftrace-DDB215?style=for-the-badge&logo=bpftrace">
 </p>
 
 <br>
