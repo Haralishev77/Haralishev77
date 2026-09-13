@@ -47,8 +47,6 @@
 <a id="repositories"></a>
 <img src="assets/repositories.svg" width="100%" alt="Selected repositories">
 
-Repositories from the CAVISE ecosystem, alongside my security tooling.
-
 <p>
   <a href="https://github.com/CAVISE/CAVISE"><img src="assets/repo-cavise.svg" width="49%" alt="CAVISE/CAVISE — integrated simulation for connected &amp; automated vehicles"></a>
   <a href="https://github.com/CAVISE/OpenCDA"><img src="assets/repo-opencda.svg" width="49%" alt="CAVISE/OpenCDA — cooperative driving automation built on CARLA and SUMO"></a>
@@ -82,6 +80,8 @@ Repositories from the CAVISE ecosystem, alongside my security tooling.
 
 <a id="toolbox"></a>
 <img src="assets/toolbox.svg" width="100%" alt="Toolbox">
+
+<table>
 
 **Core tools**
 
@@ -117,9 +117,12 @@ Repositories from the CAVISE ecosystem, alongside my security tooling.
   <img src="https://img.shields.io/badge/Ansible-1a1b27?style=for-the-badge&amp;logo=ansible&amp;logoColor=bb9af7" alt="Learning Ansible">
   <img src="https://img.shields.io/badge/Kubernetes-1a1b27?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=7aa2f7" alt="Learning Kubernetes">
 </p>
+</table>
 
 <a id="education"></a>
 <img src="assets/education.svg" width="100%" alt="Education">
+
+<table>
 
 **National Research University Higher School of Economics** · Moscow, Russia<br>
 MIEM · Department of Computer Engineering
@@ -128,3 +131,5 @@ MIEM · Department of Computer Engineering
 | :--- | :--- |
 | **August 2026 – Present** | **Master's student** |
 | September 2022 – August 2026 | Bachelor's degree completed · Information Security |
+
+</table>
