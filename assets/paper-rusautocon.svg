@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="388" viewBox="0 0 580 388" role="img" aria-labelledby="title desc"><title id="title">Evaluation of Cooperative Perception Algorithms in Simulation Environments with Realistic Communication Models</title><desc id="desc">I. Doroshev, G. Khoroshilov, and V. Stepanyants 2024 International Russian Automation Conference Sochi, Russian Federation pp. 943–947</desc>
+<rect x="1" y="1" width="578" height="386" rx="12" fill="#1a1b27" stroke="#343b58"/>
+<path d="M22 1H558" stroke="#bb9af7" stroke-opacity=".65"/>
+<text x="26" y="35" font-family="Consolas,monospace" font-size="12" font-weight="400" fill="#bb9af7">2024 / IEEE · RusAutoCon</text>
+<text x="26" y="78" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" fill="#c0caf5">Evaluation of Cooperative Perception</text>
+<text x="26" y="108" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" fill="#c0caf5">Algorithms in Simulation Environments</text>
+<text x="26" y="138" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" fill="#c0caf5">with Realistic Communication Models</text>
+<text x="26" y="211" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#a9b1d6">I. Doroshev, G. Khoroshilov,</text>
+<text x="26" y="234" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#a9b1d6">and V. Stepanyants</text>
+<text x="26" y="275" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" fill="#9aa5ce">2024 International Russian Automation Conference</text>
+<text x="26" y="296" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" fill="#9aa5ce">Sochi, Russian Federation</text>
+<text x="26" y="317" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" fill="#9aa5ce">pp. 943–947</text>
+<path d="M26 338H554" stroke="#343b58"/>
+<circle cx="31" cy="364" r="4" fill="#bb9af7"/>
+<text x="45" y="368" font-family="Consolas,monospace" font-size="11" font-weight="400" fill="#9aa5ce">CONFERENCE PAPER</text>
+<path d="M536 368l12-12m-10 0h10v10" fill="none" stroke="#bb9af7" stroke-width="1.5"/>
+</svg>

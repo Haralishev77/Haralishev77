@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="388" viewBox="0 0 580 388" role="img" aria-labelledby="title desc"><title id="title">Integrated Simulation Environment for Verification and Validation of Connected and Automated Vehicle Control Software</title><desc id="desc">V. G. Stepanyants, G. S. Khoroshilov, I. M. Dolgov, E. A. Narkhov, and A. V. Karpukhin Proceedings of the Institute for System Programming of the RAS Vol. 38 · Issue 3, part 2 · pp. 95–110</desc>
+<rect x="1" y="1" width="578" height="386" rx="12" fill="#1a1b27" stroke="#343b58"/>
+<path d="M22 1H558" stroke="#7aa2f7" stroke-opacity=".65"/>
+<text x="26" y="35" font-family="Consolas,monospace" font-size="12" font-weight="400" fill="#7aa2f7">2026 / ISP RAS</text>
+<text x="26" y="78" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" fill="#c0caf5">Integrated Simulation Environment</text>
+<text x="26" y="108" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" fill="#c0caf5">for Verification and Validation of</text>
+<text x="26" y="138" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" fill="#c0caf5">Connected and Automated Vehicle</text>
+<text x="26" y="168" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" fill="#c0caf5">Control Software</text>
+<text x="26" y="211" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#a9b1d6">V. G. Stepanyants, G. S. Khoroshilov, I. M. Dolgov,</text>
+<text x="26" y="234" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#a9b1d6">E. A. Narkhov, and A. V. Karpukhin</text>
+<text x="26" y="275" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" fill="#9aa5ce">Proceedings of the Institute for System</text>
+<text x="26" y="296" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" fill="#9aa5ce">Programming of the RAS</text>
+<text x="26" y="317" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="400" fill="#9aa5ce">Vol. 38 · Issue 3, part 2 · pp. 95–110</text>
+<path d="M26 338H554" stroke="#343b58"/>
+<circle cx="31" cy="364" r="4" fill="#7aa2f7"/>
+<text x="45" y="368" font-family="Consolas,monospace" font-size="11" font-weight="400" fill="#9aa5ce">JOURNAL ARTICLE</text>
+<path d="M536 368l12-12m-10 0h10v10" fill="none" stroke="#7aa2f7" stroke-width="1.5"/>
+</svg>

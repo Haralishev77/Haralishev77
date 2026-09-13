@@ -1,168 +1,130 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&height=400&color=gradient&text=Hello,%20it's%20Grigoriy%20Khoroshilov&reversal=false&textBg=false&fontAlign=50&fontSize=50&desc=AppSec/DevSecOps/SoC&descAlignY=68" width="100%">
+<!-- Original SVG artwork lives in assets/. Text and links remain editable here. -->
+<img src="assets/workspace.svg" width="100%" alt="Grigoriy Khoroshilov — CAVISE, connected &amp; automated vehicles and security. Master's student at HSE University, MIEM.">
 
-<br>
-
-<!-- About Me -->
-<div align="center">
-  <h3>👤 About Me</h3>
-</div>
-
-<div align="left">
-  <p>
-    My name is <strong>Grigoriy Khoroshilov</strong>, and I've been studying at <strong>HSE University</strong> since 2022, specializing in <strong>Information Security</strong>.<br>
-    I'm passionate about identifying vulnerabilities and developing countermeasures.<br>
-    Additionally, I'm studying <strong>machine learning</strong> to address further tasks within the <strong>CAVISE</strong> project, of which I'm a participant.
-  </p>
-</div>
-
-<div align="center">
-  <h3>🔧 Responsibilities</h3>
-</div>
-
-- Building and maintaining **secure development processes (SSDLC)**;
-- Performing **security audits** and defining security requirements;
-- Deploying and administering infrastructure using **Docker-rootless**;
-- Implementing CI/CD pipelines with **SAST**, **SCA**, and **SBOM** integrations, including automated report uploads;
-- Monitoring and managing security events with **Wazuh**;
-- Developing decoders and rules for **Wazuh**;
-- Investigating security incidents: analyzing malware, attack scripts, and writing reports;
-- **YARA** rule writing and automating incident response.
-
-<br>
-
-
----
-<!-- Projects -->
-<br>
-
-<div align="center">
-  <h3>🔮 Projects</h3>
-</div>
-
-<div align="Left">
-  <p>
-    <strong>CAVISE</strong> aims to enhance the accuracy of modeling and training connected and autonomous vehicles by developing an integrated simulation environment (based on Unreal Engine 4/5).
-    It focuses on training through the integration and modification of existing high-precision simulation and training tools using deep reinforcement learning.
-  </p>
-</div>
-
-<div align="center"><img src="CAVISE.png" style="width: 1000px; height: auto;"/></div>
-
-<div align="center">
-  <a href="https://github.com/CAVISE" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-CAVISE-181717?style=for-the-badge&logo=github&logoColor=white" alt="CAVISE GitHub Repo" />
-  </a>
-</div>
-
-<br>
-
----
-
-<br>
-
-<h3 align="center">Core Stack</h3>
 <p align="center">
-  <img alt="python" src="https://img.shields.io/badge/python-FFE873?style=for-the-badge&logo=python">
-  <img alt="git" src="https://img.shields.io/badge/git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F">
-  <img alt="docker" src="https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=FFFFFF">
-  <img alt="bash" src="https://img.shields.io/badge/bash-2B3539?style=for-the-badge&logo=bash&logoColor=39B34A">
-  <img alt="wazuh" src="https://img.shields.io/badge/wazuh-3595F9?style=for-the-badge&logo=wazuh&logoColor=FFFFFF">
-  <img alt="defectdojo" src="https://img.shields.io/badge/defectdojo-094D77?style=for-the-badge&logo=defectdojo&logoColor=FFFFFF">
-  <img alt="gitlab" src="https://img.shields.io/badge/gitlab-E2432A?style=for-the-badge&logo=gitlab&logoColor=FFFFFF">
-  <img alt="jenkins" src="https://img.shields.io/badge/jenkins-D33834?style=for-the-badge&logo=jenkins&logoColor=6D6B6D">
+  <a href="https://t.me/Haralishev77"><img src="https://img.shields.io/badge/Telegram-1a1b27?style=for-the-badge&amp;logo=telegram&amp;logoColor=7dcfff" alt="Telegram"></a>
+  <a href="mailto:khorogri@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&amp;logo=gmail&amp;logoColor=bb9af7" alt="Email"></a>
+  <a href="https://discordapp.com/users/541607595320803338"><img src="https://img.shields.io/badge/Discord-1a1b27?style=for-the-badge&amp;logo=discord&amp;logoColor=7aa2f7" alt="Discord"></a>
+  <a href="https://github.com/CAVISE"><img src="https://img.shields.io/badge/CAVISE-1a1b27?style=for-the-badge&amp;logo=github&amp;logoColor=9ece6a" alt="CAVISE on GitHub"></a>
+</p>
+<p align="center">
+  <a href="#cavise">CAVISE</a> &nbsp; / &nbsp;
+  <a href="#repositories">Repositories</a> &nbsp; / &nbsp;
+  <a href="#publications">Publications</a> &nbsp; / &nbsp;
+  <a href="#security">Security</a> &nbsp; / &nbsp;
+  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
+  <a href="#education">Education</a>
 </p>
 
-<h3 align="center">Familiar With</h3>
-<p align="center">
-  <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=c%2B%2B">
-  <img alt="rust" src="https://img.shields.io/badge/rust-D81835?style=for-the-badge&logo=rust&logoColor=FFFFFF&logoSize=100">
-  <img alt="c" src="https://img.shields.io/badge/c-5C4CCC?style=for-the-badge&logo=c&logoColor=FFFFFF&logoSize=100">
-  <img alt="gradle" src="https://img.shields.io/badge/gradle-010002?style=for-the-badge&logo=gradle&logoColor=209BC4&logoSize=100">
-  <img alt="maven" src="https://img.shields.io/badge/maven-D81835?style=for-the-badge&logo=maven&logoSize=100">
-  <img alt="nginx" src="https://img.shields.io/badge/nginx-009900?style=for-the-badge&logo=nginx&logoColor=FFFFFF&logoSize=100">
-  <img alt="wireshark" src="https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=FFFFFF">
-  <img alt="burpsuite" src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=FFFFFF">
-  <img alt="postman" src="https://img.shields.io/badge/postman-EF5B25?style=for-the-badge&logo=postman&logoColor=FFFFFF&logoSize=100">
-  <img alt="harbor" src="https://img.shields.io/badge/harbor-696566?style=for-the-badge&logo=harbor&logoColor=55A832">
+<table>
+<tr>
+<td width="58%" valign="top">
+<h3>A little about me</h3>
+<p>I'm Grigoriy, a <strong>master's student at HSE University, MIEM</strong>, and a contributor to <strong>CAVISE</strong>.</p>
+<p>My research interests center on connected &amp; automated vehicles and cooperative perception: how vehicles share information and how we can evaluate their behavior in simulation.</p>
+<p>Alongside research, I work on <strong>application security, DevSecOps, and detection engineering</strong>.</p>
+</td>
+<td width="42%" valign="top">
+<h3>On GitHub</h3>
+<a href="https://github.com/Haralishev77?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haralishev77&amp;theme=tokyonight" width="340" alt="Haralishev77's public GitHub statistics"></a>
+<p><a href="https://github.com/Haralishev77?tab=repositories">Browse my repositories ↗</a></p>
+</td>
+</tr>
+</table>
+
+<a id="cavise"></a>
+<img src="assets/cavise.svg" width="100%" alt="CAVISE">
+
+<table>
+<tr><td>
+<h3>Connected and Automated Vehicle Integrated Simulation Environment</h3>
+<p>I contribute to CAVISE, which brings vehicle behavior, perception, traffic, and wireless communication into a shared simulation environment. The goal is to evaluate software for connected &amp; automated vehicles and cooperative perception algorithms under realistic conditions.</p>
+<p><strong>Research focus</strong><br>Connected &amp; automated vehicles · Cooperative perception · Verification and validation</p>
+<a href="https://github.com/CAVISE/CAVISE"><img src="assets/cavise-text-logo-light.svg" width="100%" alt="CAVISE integrated simulation environment"></a>
+</td></tr>
+</table>
+
+<a id="repositories"></a>
+<img src="assets/repositories.svg" width="100%" alt="Selected repositories">
+
+Repositories from the CAVISE ecosystem, alongside my security tooling.
+
+<p>
+  <a href="https://github.com/CAVISE/CAVISE"><img src="assets/repo-cavise.svg" width="49%" alt="CAVISE/CAVISE — integrated simulation for connected &amp; automated vehicles"></a>
+  <a href="https://github.com/CAVISE/OpenCDA"><img src="assets/repo-opencda.svg" width="49%" alt="CAVISE/OpenCDA — cooperative driving automation built on CARLA and SUMO"></a>
+</p>
+<p>
+  <a href="https://github.com/CAVISE/OpenCOOD"><img src="assets/repo-opencood.svg" width="49%" alt="CAVISE/OpenCOOD — cooperative detection for connected &amp; automated vehicles"></a>
+  <a href="https://github.com/Haralishev77/wazuh_findings_exporter"><img src="assets/repo-wazuh.svg" width="49%" alt="Haralishev77/wazuh_findings_exporter — export Wazuh findings with Python"></a>
 </p>
 
-<h3 align="center">Currently Learning</h3>
-<p align="center">
-  <img alt="go" src="https://img.shields.io/badge/go-29BEB0?style=for-the-badge&logo=go&logoColor=FFFFFF&logoSize=100">
-  <img alt="ansible" src="https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=FFFFFF&logoSize=100">
-  <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
-  <img alt="bpftrace" src="https://img.shields.io/badge/bpftrace-DDB215?style=for-the-badge&logo=bpftrace">
+<a id="publications"></a>
+<img src="assets/publications.svg" width="100%" alt="Publications">
+
+<p>
+  <a href="https://www.mathnet.ru/php/archive.phtml?wshow=paper&amp;jrnid=tisp&amp;paperid=1174&amp;option_lang=eng"><img src="assets/paper-ispras.svg" width="49%" alt="2026 · Journal article. Integrated Simulation Environment for Verification and Validation of Connected and Automated Vehicle Control Software. V. G. Stepanyants, G. S. Khoroshilov, I. M. Dolgov, E. A. Narkhov, and A. V. Karpukhin. Proceedings of the Institute for System Programming of the RAS, vol. 38, issue 3, part 2, pp. 95–110."></a>
+  <a href="https://ieeexplore.ieee.org/document/10694627"><img src="assets/paper-rusautocon.svg" width="49%" alt="2024 · Conference paper. Evaluation of Cooperative Perception Algorithms in Simulation Environments with Realistic Communication Models. I. Doroshev, G. Khoroshilov, and V. Stepanyants. 2024 International Russian Automation Conference (RusAutoCon), Sochi, Russian Federation, pp. 943–947."></a>
 </p>
 
-<br>
+<p>
+  <img src="assets/paper-in-progress.svg" width="100%" alt="In progress · CAVISE: Connected and Automated Vehicle Integrated Simulation Environment for Realistic … Modeling. I. Dolgov, G. Khoroshilov, and V. Stepanyants.">
+</p>
 
----
+<a id="security"></a>
+<img src="assets/security.svg" width="100%" alt="Security in practice">
 
-<br>
+| Area | What I work on |
+| :--- | :--- |
+| **Secure development** | SSDLC processes, security audits, and actionable security requirements. |
+| **Delivery & infrastructure** | Rootless Docker deployments and CI/CD pipelines with SAST, SCA, SBOM generation, and automated report uploads. |
+| **Detection engineering** | Security monitoring with Wazuh, custom decoders and detection rules, and YARA rules. |
+| **Incident response** | Malware and attack-script analysis, incident reports, and response automation. |
 
-<div align="center">
-  <h3>📚 Publications</h3>
-</div>
+<a id="toolbox"></a>
+<img src="assets/toolbox.svg" width="100%" alt="Toolbox">
 
-<!-- Publication 1 -->
-<div align="left">
-  <p>
-    <strong>I. Doroshev, G. Khoroshilov and V. Stepanyants</strong>,<br />
-    "<i>Evaluation of Cooperative Perception Algorithms in Simulation Environments with Realistic Communication Models</i>",<br />
-    2024 International Russian Automation Conference (RusAutoCon), Sochi, Russian Federation, 2024, pp. 943–947.<br />
-    DOI: <a href="https://doi.org/10.1109/RusAutoCon61949.2024.10694627" target="_blank">10.1109/RusAutoCon61949.2024.10694627</a>
-  </p>
-</div>
+**Core tools**
 
-<div align="center">
-  <a href="https://ieeexplore.ieee.org/document/10694627" target="_blank">
-    <img src="https://img.shields.io/badge/IEEE%20Xplore-DarkBlue?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore Publication" />
-  </a>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&amp;logo=python&amp;logoColor=7dcfff" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-1a1b27?style=for-the-badge&amp;logo=gnubash&amp;logoColor=7dcfff" alt="Bash">
+  <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&amp;logo=git&amp;logoColor=7dcfff" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&amp;logo=docker&amp;logoColor=7dcfff" alt="Docker">
+  <img src="https://img.shields.io/badge/GitLab-1a1b27?style=for-the-badge&amp;logo=gitlab&amp;logoColor=bb9af7" alt="GitLab">
+  <img src="https://img.shields.io/badge/Jenkins-1a1b27?style=for-the-badge&amp;logo=jenkins&amp;logoColor=bb9af7" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Wazuh-1a1b27?style=for-the-badge&amp;logoColor=9ece6a" alt="Wazuh">
+  <img src="https://img.shields.io/badge/DefectDojo-1a1b27?style=for-the-badge&amp;logoColor=9ece6a" alt="DefectDojo">
+</p>
 
-<!-- Publication 2 (in progress) -->
-<div align="left">
-  <p>
-    <strong>I. Dolgov, G. Khoroshilov and V. Stepanyants</strong>,<br />
-    "<i>CAVISE: Connected and Automated Vehicle Integrated Simulation Environment for Realistic … Modeling</i>",<br />
-    🔄 <em>In progress — submission planned for ..., 2025</em>
-  </p>
-</div>
+**More tools I've worked with**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge&logo=githubactions&logoColor=black" alt="In Progress Badge" />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/C-1a1b27?style=for-the-badge&amp;logo=c&amp;logoColor=7dcfff" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-1a1b27?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=7dcfff" alt="C++">
+  <img src="https://img.shields.io/badge/Rust-1a1b27?style=for-the-badge&amp;logo=rust&amp;logoColor=7dcfff" alt="Rust">
+  <img src="https://img.shields.io/badge/Gradle-1a1b27?style=for-the-badge&amp;logo=gradle&amp;logoColor=7dcfff" alt="Gradle">
+  <img src="https://img.shields.io/badge/Maven-1a1b27?style=for-the-badge&amp;logo=apachemaven&amp;logoColor=7dcfff" alt="Maven">
+  <img src="https://img.shields.io/badge/Nginx-1a1b27?style=for-the-badge&amp;logo=nginx&amp;logoColor=7dcfff" alt="Nginx">
+  <img src="https://img.shields.io/badge/Wireshark-1a1b27?style=for-the-badge&amp;logo=wireshark&amp;logoColor=7dcfff" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Burp%20Suite-1a1b27?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=7dcfff" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Postman-1a1b27?style=for-the-badge&amp;logo=postman&amp;logoColor=7dcfff" alt="Postman">
+</p>
 
-<br>
+**Currently exploring**
 
----
+<p>
+  <img src="https://img.shields.io/badge/Go-1a1b27?style=for-the-badge&amp;logo=go&amp;logoColor=7dcfff" alt="Learning Go">
+  <img src="https://img.shields.io/badge/Ansible-1a1b27?style=for-the-badge&amp;logo=ansible&amp;logoColor=bb9af7" alt="Learning Ansible">
+  <img src="https://img.shields.io/badge/Kubernetes-1a1b27?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=7aa2f7" alt="Learning Kubernetes">
+</p>
 
-<br>
+<a id="education"></a>
+<img src="assets/education.svg" width="100%" alt="Education">
 
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Haralishev77&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Haralishev77's Stats" height="250">
-  </p>
-</div>
+**National Research University Higher School of Economics** · Moscow, Russia<br>
+MIEM · Department of Computer Engineering
 
-<br>
-
-<div align="center">
-  <h3>🌐 Contact</h3>
-    <a href="https://t.me/Haralishev77" target="_blank" align="center">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /><br>
-    </a>
-    <a href="mailto:khorogri@gmail.com" target="_blank" align="center">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /><br>
-    </a>
-    <a href="https://github.com/Haralishev77" target="_blank align="center"">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br>
-    </a>
-    <a href="https://discordapp.com/users/541607595320803338" target="_blank" align="center">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&reversal=true&textBg=false&fontAlign=50&section=footer" width="100%">
+| Period | Degree / status |
+| :--- | :--- |
+| **August 2026 – Present** | **Master's student** |
+| September 2022 – August 2026 | Bachelor's degree completed · Information Security |
