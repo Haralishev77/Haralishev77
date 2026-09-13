@@ -35,14 +35,12 @@
 <a id="cavise"></a>
 <img src="assets/cavise.svg" width="100%" alt="CAVISE">
 
-<table>
 <tr><td>
 <h3>Connected and Automated Vehicle Integrated Simulation Environment</h3>
 <p>I contribute to CAVISE, which brings vehicle behavior, perception, traffic, and wireless communication into a shared simulation environment. The goal is to evaluate software for connected &amp; automated vehicles and cooperative perception algorithms under realistic conditions.</p>
 <p><strong>Research focus</strong><br>Connected &amp; automated vehicles · Cooperative perception · Verification and validation</p>
 <a href="https://github.com/CAVISE/CAVISE"><img src="assets/cavise-text-logo-light.svg" width="100%" alt="CAVISE integrated simulation environment"></a>
 </td></tr>
-</table>
 
 <a id="repositories"></a>
 <img src="assets/repositories.svg" width="100%" alt="Selected repositories">
@@ -81,8 +79,6 @@
 <a id="toolbox"></a>
 <img src="assets/toolbox.svg" width="100%" alt="Toolbox">
 
-<table>
-
 **Core tools**
 
 <p>
@@ -117,12 +113,9 @@
   <img src="https://img.shields.io/badge/Ansible-1a1b27?style=for-the-badge&amp;logo=ansible&amp;logoColor=bb9af7" alt="Learning Ansible">
   <img src="https://img.shields.io/badge/Kubernetes-1a1b27?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=7aa2f7" alt="Learning Kubernetes">
 </p>
-</table>
 
 <a id="education"></a>
 <img src="assets/education.svg" width="100%" alt="Education">
-
-<table>
 
 **National Research University Higher School of Economics** · Moscow, Russia<br>
 MIEM · Department of Computer Engineering
@@ -131,5 +124,3 @@ MIEM · Department of Computer Engineering
 | :--- | :--- |
 | **August 2026 – Present** | **Master's student** |
 | September 2022 – August 2026 | Bachelor's degree completed · Information Security |
-
-</table>
